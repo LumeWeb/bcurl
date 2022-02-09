@@ -1,6 +1,6 @@
 {
-  "name": "bcurl",
-  "version": "0.1.10",
+  "name": "@lumeweb/bcurl",
+  "version": "0.1.11",
   "description": "Web client bike-shed",
   "keywords": [
     "http",
